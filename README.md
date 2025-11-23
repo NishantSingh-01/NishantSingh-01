@@ -18,7 +18,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=officialnishant3ns-oss&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=officialnishant3ns-oss&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=officialnishant3ns-oss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 - 📫 How to reach me **official.nishant.3ns@gmail.com**
@@ -32,7 +32,7 @@
 
 
 
-### ✍ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
