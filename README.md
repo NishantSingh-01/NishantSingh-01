@@ -8,7 +8,7 @@
 </div>
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-singh-7523a1378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ns967035@gmail.com) 
 
 # 💻 Tech Stack:
