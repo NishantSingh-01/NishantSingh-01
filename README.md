@@ -21,7 +21,7 @@
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=officialnishant3ns-oss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **official.nishant.3ns@gmail.com**
+-  How to reach me **official.nishant.3ns@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 <a href="https://www.leetcode.com/NishantTheCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whitenishant" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/officialni8wuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="officialni8wuf" height="30" width="40" /></a>
 </p>
-
+<hr>
 
 
 ###  Random Dev Quote
