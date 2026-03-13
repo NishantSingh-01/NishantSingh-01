@@ -1,4 +1,4 @@
-
+<hr>
 <!-- Typing SVG Intro -->
 <div align="center">
   <h1>
