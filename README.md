@@ -19,10 +19,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NishantSingh-01&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh-01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=officialnishant3ns-oss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
--  How to reach me **ns967035@gmail.com**
+How to reach me **ns967035@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,11 +31,6 @@
 <hr>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NishantSingh-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=NishantSingh-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
