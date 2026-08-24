@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF873E,100:FF6C37&height=220&section=header&text=Nishant%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="header banner" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=4000&pause=1000&color=EF873E&center=true&vCenter=true&width=500&lines=Full+Stack(MERN)+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Also+work+with+PostgreSQL+%26+MySQL;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=4000&pause=1000&color=EF873E&center=true&vCenter=true&width=500&lines=Full+Stack(MERN)+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;And+PostgreSQL+%26+MySQL;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/>
 
