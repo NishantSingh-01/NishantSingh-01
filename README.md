@@ -10,7 +10,8 @@
 </div>
 
 <br/>
-<hr>
+
+
 ## 👋 About Me
 
 -  Full Stack MERN Developer — **MongoDB, Express, React & Node.js & PostgreSQL**
